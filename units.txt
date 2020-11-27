@@ -1,0 +1,12 @@
+Our multi-modal data included clinical data (clinical records and laboratory results), CT images, and radiologists’ semantic features. And the follow-up outcomes with time intervals of each patient. 
+
+(1) Clinical records: 
+(a) demographics: age and gender; 
+(b) comorbidities (0: No such a comorbidity; 1: Has such a comorbidity; [blank]: unknown): coronary heart disease (CVD), diabetes, hypertension, chronic obstructive lung disease (COPD), chronic liver disease, chronic kidney disease, and carcinoma (cancer); 
+(c) clinical symptoms (0: No such a comorbidity; 1: Has such a comorbidity; [blank]: unknown): fever, cough, myalgia (muscle sourness), fatigue, headache, nausea or vomiting (nausea), diarrhea, abdominal pain, and dyspnea.
+
+(2) Laboratory results ([blank]: unknown)): 
+(a) blood routine: white blood cell (WBC) count (× 10⁹/L), neutrophil count (neutrophil) (× 10⁹/L), lymphocyte count (lymphocyte) (× 10⁹/L), platelet count (platelet) (× 10⁹/L), and hemoglobin (g/L); 
+(b) coagulation function: prothrombin time (PT) (s), activated partial thromboplastin time (appt) (s), and D-dimer (ddimer) (mg/L); 
+(c) blood biochemistry: albumin (g/L), alanine aminotransferase (ALT) (U/L), aspartate Aminotransferase (AST) (U/L), total bilirubin (bilirubin) (mmol/L), serum potassium (potassium) (mmol/L), sodium (mmol/L), creatinine (μmol/L), creatine kinase (CK) (U/L), lactate dehydrogenase (LDH) (U/L), α-Hydroxybutyrate dehydrogenase (HBDH) (U/L); 
+(d) infection-related biomarkers: C-reactive protein (CRP) (mg/L).

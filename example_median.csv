@@ -1,0 +1,2 @@
+patient_id,age,gender,CVD,diabetes,hypertension,COPD,chronic liver disease,chronic kidney disease,cancer,fever,cough,muscle sourness,fatigue,headache,nausea,diarrhea,abdominal pain,dyspnea,wbc,neutrophil,lymphocyte,hemoglobin,platelet,pt,appt,ddimer,crp,albumin,alt,ast,bilirubin,potassium,sodium,creatinine,ck,ldh,hbdh
+median,53,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,5.3,3.385,1.18,131,140,12.42,30.13,0.39,9.61,37.4,25.9,24,9.8,4.1,139.8,66.26,57.3,208,162.5
