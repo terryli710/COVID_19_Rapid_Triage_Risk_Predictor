@@ -1,5 +1,7 @@
 # **COVID-19 Outcome Prediction Guideline**
 
+<a href="https://zenodo.org/badge/latestdoi/280965640"><img src="https://zenodo.org/badge/280965640.svg" alt="DOI"></a>
+
 ## Environment Building
 
 ### Python Environment
